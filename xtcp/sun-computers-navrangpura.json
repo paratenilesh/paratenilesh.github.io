@@ -2,7 +2,6 @@
 	"data":[
 		{"username":"sshuser", "limit":1, "expired":"12-06-2021"},
 		{"username":"securetcp", "limit":1, "expired":"13-06-2021"},
-		{"username":"deskuser", "limit":1, "expired":"14-06-2021"},
-		{"username":"suncomputers", "limit":1, "expired":"15-06-2021"}
+		{"username":"deskuser", "limit":1, "expired":"14-06-2021"}
 	]
 }
