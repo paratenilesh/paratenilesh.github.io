@@ -1,7 +1,7 @@
 {
 	"data":[
 		{"username":"sshuser", "limit":1, "expired":"12-06-2021"},
-		{"username":"securetcp", "limit":3, "expired":"13-06-2021"}
+		{"username":"securetcp", "limit":3, "expired":"13-06-2021"},
 		{"username":"deskuser", "limit":2, "expired":"14-06-2021"}
 	]
 }
