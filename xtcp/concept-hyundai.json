@@ -1,15 +1,6 @@
 {
 	"data":[
 		{"username":"sshuser", "limit":1, "expired":"2021-06-12"},
-		{"username":"user1", "limit":1, "expired":"2021-06-12"},
-		{"username":"user2", "limit":1, "expired":"2021-06-12"},
-		{"username":"user3", "limit":1, "expired":"2021-06-12"},
-		{"username":"user4", "limit":1, "expired":"2021-06-12"},
-		{"username":"user5", "limit":1, "expired":"2021-06-12"},
-		{"username":"user6", "limit":1, "expired":"2021-06-12"},
-		{"username":"user7", "limit":1, "expired":"2021-06-12"},
-		{"username":"user8", "limit":1, "expired":"2021-06-12"},
-		{"username":"user9", "limit":1, "expired":"2021-06-12"},
-		{"username":"user10", "limit":1, "expired":"2021-06-12"}
+		{"username":"user6", "limit":1, "expired":"2021-06-12"}
 	]
 }
