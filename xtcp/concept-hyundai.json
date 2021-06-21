@@ -1,5 +1,6 @@
 {
 	"data":[
-		{"username":"sshuser", "limit":1, "expired":"2050-12-31"}
+		{"username":"sshuser", "limit":1, "expired":"2050-12-31"},
+		{"username":"hellouser", "limit":1, "expired":"2050-12-31"}
 	]
 }
