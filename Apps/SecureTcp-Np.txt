@@ -1,1 +1,1 @@
-1.0.0.1	SecureTcp-Np.zip	e88a78c6cd0f64f82d37a9bb6a65a52ad3c0b7e3
+1.0.0.0	SecureTcp-Np.zip	e88a78c6cd0f64f82d37a9bb6a65a52ad3c0b7e3
